@@ -1,0 +1,89 @@
+{
+  "main": {
+    "id": "e183e4d4582c1a3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "93f00bee73ddc887",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a1e986c23706715",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f896650bd450b89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e3c785cb88ae5cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f21cdedc581668f5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b504e696dadfbae4",
+    "type": "split",
+    "children": [
+      {
+        "id": "39a38fcd2aba8fd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ff251ec348c7b26",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "93f00bee73ddc887",
+  "lastOpenFiles": [
+    "Articles/How_to_find_the_Ideal_User.md"
+  ]
+}
